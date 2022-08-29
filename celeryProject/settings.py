@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    "djangocelery"
+    "djangocelery",
+    "django_celery_results"
 ]
 
 MIDDLEWARE = [
@@ -133,3 +134,4 @@ CELERY_RESULT_BACKEND = "redis://127.0.0.1:6379/0"
 CELERY_ACCEPT_CONTENT= ['application/json']
 CELERY_RESULT_SERIALIZER='json'
 CELERY_TASK_SERIALIZER='json'
+CELERY_RESULT_BACKEND="django-db"

@@ -1,0 +1,2 @@
+run command= celery -A celeryProject.celery worker -l info   # in terminal
+
