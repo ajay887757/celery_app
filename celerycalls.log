@@ -1,0 +1,4 @@
+2022-09-13 08:48:35,987 /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.
+2022-09-13 08:48:42,953 This is From View.py
+2022-09-13 08:48:42,954 "GET /test/ HTTP/1.1" 200 9
+2022-09-13 08:53:02,358 /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.

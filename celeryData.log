@@ -1,0 +1,121 @@
+2022-09-13 08:31:23,502 /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/views.py changed, reloading.
+2022-09-13 08:31:31,369 /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/views.py changed, reloading.
+2022-09-13 08:31:44,759 This is From View.py
+2022-09-13 08:31:44,760 "GET /test/ HTTP/1.1" 200 9
+2022-09-13 08:31:57,631 This is From View.py
+2022-09-13 08:31:57,632 "GET /test/ HTTP/1.1" 200 9
+2022-09-13 08:32:43,699 /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.
+2022-09-13 08:32:51,152 This is From View.py
+2022-09-13 08:32:51,153 "GET /test/ HTTP/1.1" 200 9
+2022-09-13 08:34:12,633 /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.
+2022-09-13 08:34:30,245 This is From View.py
+2022-09-13 08:34:30,246 "GET /test/ HTTP/1.1" 200 9
+2022-09-13 08:34:50,710 This is From View.py
+2022-09-13 08:34:50,710 "GET /test/ HTTP/1.1" 200 9
+2022-09-13 08:35:13,534 /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.
+2022-09-13 08:35:27,213 This is From View.py
+2022-09-13 08:35:27,214 "GET /test/ HTTP/1.1" 200 9
+2022-09-13 08:35:42,844 /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.
+2022-09-13 08:35:49,628 This is From View.py
+2022-09-13 08:35:49,629 "GET /test/ HTTP/1.1" 200 9
+2022-09-13 08:35:59,007 /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.
+2022-09-13 08:36:02,737 /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.
+2022-09-13 08:36:15,509 This is From View.py
+2022-09-13 08:36:15,510 "GET /test/ HTTP/1.1" 200 9
+2022-09-13 08:36:29,242 /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.
+2022-09-13 08:40:24,839 /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/views.py changed, reloading.
+2022-09-13 08:40:33,668 /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.
+2022-09-13 08:40:41,395 /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.
+2022-09-13 08:40:46,306 This is From View.py
+2022-09-13 08:40:46,306 "GET /test/ HTTP/1.1" 200 9
+2022-09-13 08:41:09,348 This is From View.py
+2022-09-13 08:41:09,348 "GET /test/ HTTP/1.1" 200 9
+2022-09-13 08:42:03,573 /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.
+2022-09-13 08:47:21,722 Internal Server Error: /test/
+Traceback (most recent call last):
+  File "/home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/env/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/env/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/views.py", line 16, in test
+    test_func.delay()
+AttributeError: 'function' object has no attribute 'delay'
+2022-09-13 08:47:21,723 "GET /test/ HTTP/1.1" 500 65802
+2022-09-13 08:47:45,615 /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.
+2022-09-13 08:47:48,154 This is From View.py
+2022-09-13 08:47:48,155 "GET /test/ HTTP/1.1" 200 9
+2022-09-13 08:48:11,571 This is From View.py
+2022-09-13 08:48:11,572 "GET /test/ HTTP/1.1" 200 9
+2022-09-13 08:48:30,251 /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.
+2022-09-13 08:57:24,721 /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.
+2022-09-13 08:57:33,375 This is From View.py
+2022-09-13 08:57:33,376 "GET /test/ HTTP/1.1" 200 9
+2022-09-13 09:01:43,534 /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.
+2022-09-13 09:01:47,208 /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.
+2022-09-13 09:01:55,823 This is From View.py
+2022-09-13 09:01:55,824 "GET /test/ HTTP/1.1" 200 9
+2022-09-13 09:09:43,748 /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.
+2022-09-13 09:09:56,658 /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.
+2022-09-13 09:12:30,656 /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.
+2022-09-13 09:12:51,525 /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.
+2022-09-13 09:13:09,680 This is From View.py
+2022-09-13 09:13:09,681 "GET /test/ HTTP/1.1" 200 9
+2022-09-13 09:14:37,091 /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.
+2022-09-13 09:14:55,054 /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.
+2022-09-13 09:15:04,993 This is From View.py
+2022-09-13 09:15:04,994 "GET /test/ HTTP/1.1" 200 9
+2022-09-13 09:16:51,776 This is From View.py
+2022-09-13 09:16:51,777 "GET /test/ HTTP/1.1" 200 9
+2022-09-13 09:17:14,640 This is From View.py
+2022-09-13 09:17:14,641 "GET /test/ HTTP/1.1" 200 9
+2022-09-13 09:17:20,310 /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.
+2022-09-13 09:17:28,815 This is From View.py
+2022-09-13 09:17:28,816 "GET /test/ HTTP/1.1" 200 9
+2022-09-13 09:21:54,409 /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.
+2022-09-13 09:22:12,237 "GET /admin/django_celery_results/taskresult/?date_done__day=13&date_done__month=9&date_done__year=2022 HTTP/1.1" 200 40958
+2022-09-13 09:22:12,268 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 09:22:22,335 "POST /admin/django_celery_results/taskresult/?date_done__day=13&date_done__month=9&date_done__year=2022 HTTP/1.1" 200 16724
+2022-09-13 09:22:22,361 "GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+2022-09-13 09:22:24,690 "POST /admin/django_celery_results/taskresult/?date_done__day=13&date_done__month=9&date_done__year=2022 HTTP/1.1" 302 0
+2022-09-13 09:22:24,744 "GET /admin/django_celery_results/taskresult/?date_done__day=13&date_done__month=9&date_done__year=2022 HTTP/1.1" 200 10203
+2022-09-13 09:22:24,821 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 09:22:29,035 This is From View.py
+2022-09-13 09:22:29,035 "GET /test/ HTTP/1.1" 200 9
+2022-09-13 09:22:35,110 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 13139
+2022-09-13 09:22:35,130 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 09:22:48,769 "POST /admin/django_celery_results/taskresult/ HTTP/1.1" 200 6831
+2022-09-13 09:22:49,875 "POST /admin/django_celery_results/taskresult/ HTTP/1.1" 302 0
+2022-09-13 09:22:49,905 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 8028
+2022-09-13 09:22:49,979 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 09:22:51,256 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7886
+2022-09-13 09:22:51,277 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 09:22:51,853 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7886
+2022-09-13 09:22:51,868 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 09:22:52,035 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7886
+2022-09-13 09:22:52,052 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 09:22:52,389 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7886
+2022-09-13 09:22:52,422 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 09:22:56,070 This is From View.py
+2022-09-13 09:22:56,070 "GET /test/ HTTP/1.1" 200 9
+2022-09-13 09:22:58,489 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 10766
+2022-09-13 09:22:58,505 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 09:23:03,149 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 10766
+2022-09-13 09:23:03,167 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 09:23:04,852 "GET /admin/django_celery_results/taskresult/59/change/ HTTP/1.1" 200 13331
+2022-09-13 09:23:04,881 "GET /static/admin/css/forms.css HTTP/1.1" 200 8878
+2022-09-13 09:23:04,884 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 09:23:04,885 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 492
+2022-09-13 09:23:04,890 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11097
+2022-09-13 09:23:04,893 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+2022-09-13 09:25:52,171 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 10766
+2022-09-13 09:25:52,200 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 09:25:53,723 "GET /admin/django_celery_results/groupresult/ HTTP/1.1" 200 6909
+2022-09-13 09:25:53,745 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 09:25:55,309 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 10766
+2022-09-13 09:25:55,329 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 09:25:57,099 "GET /admin/django_celery_results/groupresult/ HTTP/1.1" 200 6909
+2022-09-13 09:25:57,121 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 09:25:58,792 "GET /admin/django_celery_results/groupresult/add/ HTTP/1.1" 200 9273
+2022-09-13 09:25:58,814 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 09:26:17,977 /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.
+2022-09-13 09:28:26,094 This is From View.py

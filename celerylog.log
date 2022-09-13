@@ -1,0 +1,62 @@
+2022-09-13 09:12:30,656 | INFO | /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.
+2022-09-13 09:12:31,091 | INFO | Watching for file changes with StatReloader
+2022-09-13 09:12:51,525 | INFO | /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.
+2022-09-13 09:12:52,001 | INFO | Watching for file changes with StatReloader
+2022-09-13 09:13:09,681 | INFO | "GET /test/ HTTP/1.1" 200 9
+2022-09-13 09:14:37,091 | INFO | /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.
+2022-09-13 09:14:37,564 | INFO | Watching for file changes with StatReloader
+2022-09-13 09:14:55,054 | INFO | /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.
+2022-09-13 09:14:55,473 | INFO | Watching for file changes with StatReloader
+2022-09-13 09:15:04,994 | INFO | "GET /test/ HTTP/1.1" 200 9
+2022-09-13 09:16:51,777 | INFO | "GET /test/ HTTP/1.1" 200 9
+2022-09-13 09:17:14,641 | INFO | "GET /test/ HTTP/1.1" 200 9
+2022-09-13 09:17:20,310 | INFO | /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.
+2022-09-13 09:17:20,821 | INFO | Watching for file changes with StatReloader
+2022-09-13 09:17:28,816 | INFO | "GET /test/ HTTP/1.1" 200 9
+2022-09-13 09:21:54,409 | INFO | /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.
+2022-09-13 09:21:54,852 | INFO | Watching for file changes with StatReloader
+2022-09-13 09:22:12,237 | INFO | "GET /admin/django_celery_results/taskresult/?date_done__day=13&date_done__month=9&date_done__year=2022 HTTP/1.1" 200 40958
+2022-09-13 09:22:12,268 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 09:22:22,335 | INFO | "POST /admin/django_celery_results/taskresult/?date_done__day=13&date_done__month=9&date_done__year=2022 HTTP/1.1" 200 16724
+2022-09-13 09:22:22,361 | INFO | "GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+2022-09-13 09:22:24,690 | INFO | "POST /admin/django_celery_results/taskresult/?date_done__day=13&date_done__month=9&date_done__year=2022 HTTP/1.1" 302 0
+2022-09-13 09:22:24,744 | INFO | "GET /admin/django_celery_results/taskresult/?date_done__day=13&date_done__month=9&date_done__year=2022 HTTP/1.1" 200 10203
+2022-09-13 09:22:24,821 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 09:22:29,035 | INFO | "GET /test/ HTTP/1.1" 200 9
+2022-09-13 09:22:35,110 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 13139
+2022-09-13 09:22:35,130 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 09:22:48,769 | INFO | "POST /admin/django_celery_results/taskresult/ HTTP/1.1" 200 6831
+2022-09-13 09:22:49,875 | INFO | "POST /admin/django_celery_results/taskresult/ HTTP/1.1" 302 0
+2022-09-13 09:22:49,905 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 8028
+2022-09-13 09:22:49,979 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 09:22:51,256 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7886
+2022-09-13 09:22:51,277 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 09:22:51,853 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7886
+2022-09-13 09:22:51,868 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 09:22:52,035 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7886
+2022-09-13 09:22:52,052 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 09:22:52,389 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7886
+2022-09-13 09:22:52,422 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 09:22:56,070 | INFO | "GET /test/ HTTP/1.1" 200 9
+2022-09-13 09:22:58,489 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 10766
+2022-09-13 09:22:58,505 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 09:23:03,149 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 10766
+2022-09-13 09:23:03,167 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 09:23:04,852 | INFO | "GET /admin/django_celery_results/taskresult/59/change/ HTTP/1.1" 200 13331
+2022-09-13 09:23:04,881 | INFO | "GET /static/admin/css/forms.css HTTP/1.1" 200 8878
+2022-09-13 09:23:04,884 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 09:23:04,885 | INFO | "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 492
+2022-09-13 09:23:04,890 | INFO | "GET /static/admin/css/widgets.css HTTP/1.1" 200 11097
+2022-09-13 09:23:04,893 | INFO | "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+2022-09-13 09:25:52,171 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 10766
+2022-09-13 09:25:52,200 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 09:25:53,723 | INFO | "GET /admin/django_celery_results/groupresult/ HTTP/1.1" 200 6909
+2022-09-13 09:25:53,745 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 09:25:55,309 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 10766
+2022-09-13 09:25:55,329 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 09:25:57,099 | INFO | "GET /admin/django_celery_results/groupresult/ HTTP/1.1" 200 6909
+2022-09-13 09:25:57,121 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 09:25:58,792 | INFO | "GET /admin/django_celery_results/groupresult/add/ HTTP/1.1" 200 9273
+2022-09-13 09:25:58,814 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 09:26:17,977 | INFO | /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.
+2022-09-13 09:26:18,466 | INFO | Watching for file changes with StatReloader
