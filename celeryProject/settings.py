@@ -90,7 +90,7 @@ LOGGING = {
             'level': 'DEBUG',
             'formatter': 'timestamp',
             'class': 'logging.FileHandler',
-            'filename': os.path.join(BASE_DIR, 'celerylog.log'),
+            'filename': os.path.join(BASE_DIR, 'celerylog1.log'),
         },
     },
     'loggers': {

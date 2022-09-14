@@ -119,3 +119,278 @@ AttributeError: 'function' object has no attribute 'delay'
 2022-09-13 09:25:58,814 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
 2022-09-13 09:26:17,977 /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/djangocelery/task.py changed, reloading.
 2022-09-13 09:28:26,094 This is From View.py
+2022-09-13 17:31:39,133 /home/ajay/Documents/Personal_project/personal project/personal website/celeryProject/celeryProject/celeryProject/settings.py changed, reloading.
+2022-09-13 17:32:43,764 This is From View.py
+2022-09-13 17:32:43,765 "GET /test/ HTTP/1.1" 200 9
+2022-09-13 17:32:56,389 "GET /admin/ HTTP/1.1" 200 7624
+2022-09-13 17:32:56,429 "GET /static/admin/css/base.css HTTP/1.1" 200 19513
+2022-09-13 17:32:56,430 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2616
+2022-09-13 17:32:56,440 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+2022-09-13 17:32:56,446 "GET /static/admin/css/responsive.css HTTP/1.1" 200 18575
+2022-09-13 17:32:56,449 "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+2022-09-13 17:32:56,451 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3763
+2022-09-13 17:32:56,471 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+2022-09-13 17:32:56,472 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+2022-09-13 17:32:56,472 "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+2022-09-13 17:32:56,573 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+2022-09-13 17:32:56,573 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+2022-09-13 17:32:56,578 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+2022-09-13 17:32:56,614 Not Found: /favicon.ico
+2022-09-13 17:32:56,614 "GET /favicon.ico HTTP/1.1" 404 2269
+2022-09-13 17:32:58,269 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7886
+2022-09-13 17:32:58,307 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6932
+2022-09-13 17:32:58,315 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+2022-09-13 17:32:58,319 "GET /static/admin/js/core.js HTTP/1.1" 200 5698
+2022-09-13 17:32:58,329 "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+2022-09-13 17:32:58,330 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+2022-09-13 17:32:58,334 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 17:32:58,337 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+2022-09-13 17:32:58,339 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 5984
+2022-09-13 17:32:58,342 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 288580
+2022-09-13 17:32:58,344 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+2022-09-13 17:32:58,359 "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+2022-09-13 17:32:58,389 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+2022-09-13 17:34:09,153 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 11234
+2022-09-13 17:34:09,177 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 17:34:09,205 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+2022-09-13 17:42:22,222 This is From View.py
+2022-09-13 17:42:22,223 "GET /test/ HTTP/1.1" 200 9
+2022-09-13 17:42:25,336 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 11234
+2022-09-13 17:42:25,357 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 17:42:26,035 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 11234
+2022-09-13 17:42:26,054 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 17:42:26,248 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 11234
+2022-09-13 17:42:26,268 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 17:42:26,367 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 11234
+2022-09-13 17:42:26,385 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 17:54:59,134 This is From View.py
+2022-09-13 17:54:59,135 "GET /test/ HTTP/1.1" 200 9
+2022-09-13 17:55:03,929 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 11234
+2022-09-13 17:55:03,949 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 17:55:05,835 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 11234
+2022-09-13 17:55:05,855 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 17:55:06,052 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 11234
+2022-09-13 17:55:06,070 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 17:55:06,156 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 11234
+2022-09-13 17:55:06,170 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 17:55:06,265 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 11234
+2022-09-13 17:55:06,282 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 17:55:06,383 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 11234
+2022-09-13 17:55:06,452 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 17:55:06,937 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 11234
+2022-09-13 17:55:06,965 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 17:55:07,055 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 11234
+2022-09-13 17:55:07,067 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 17:55:32,414 This is From View.py
+2022-09-13 17:55:32,414 "GET /test/ HTTP/1.1" 200 9
+2022-09-13 17:55:33,301 This is From View.py
+2022-09-13 17:55:33,302 "GET /test/ HTTP/1.1" 200 9
+2022-09-13 17:55:35,965 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 11234
+2022-09-13 17:55:35,979 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 17:55:36,686 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 11234
+2022-09-13 17:55:36,701 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 06:50:37,437 This is From View.py
+2022-09-14 06:50:37,438 "GET /test/ HTTP/1.1" 200 9
+2022-09-14 06:50:41,663 "GET /admin/ HTTP/1.1" 200 7624
+2022-09-14 06:50:41,991 "GET /admin/ HTTP/1.1" 200 7624
+2022-09-14 06:50:42,121 Not Found: /favicon.ico
+2022-09-14 06:50:42,122 "GET /favicon.ico HTTP/1.1" 404 2269
+2022-09-14 06:50:43,732 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 13102
+2022-09-14 06:50:43,756 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 06:50:43,757 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 288580
+2022-09-14 06:50:51,936 "POST /admin/django_celery_results/taskresult/ HTTP/1.1" 200 6841
+2022-09-14 06:50:51,951 "GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+2022-09-14 06:50:53,498 "POST /admin/django_celery_results/taskresult/ HTTP/1.1" 302 0
+2022-09-14 06:50:53,568 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 8028
+2022-09-14 06:50:53,583 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 06:50:53,642 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+2022-09-14 07:25:58,205 This is From View.py
+2022-09-14 07:25:58,205 "GET /test/ HTTP/1.1" 200 9
+2022-09-14 07:25:58,837 This is From View.py
+2022-09-14 07:25:58,838 "GET /test/ HTTP/1.1" 200 9
+2022-09-14 07:25:59,474 This is From View.py
+2022-09-14 07:25:59,475 "GET /test/ HTTP/1.1" 200 9
+2022-09-14 07:26:00,132 This is From View.py
+2022-09-14 07:26:00,133 "GET /test/ HTTP/1.1" 200 9
+2022-09-14 07:26:00,705 This is From View.py
+2022-09-14 07:26:00,706 "GET /test/ HTTP/1.1" 200 9
+2022-09-14 07:39:12,551 "GET /admin/ HTTP/1.1" 500 59
+2022-09-14 07:39:15,935 "GET /admin/ HTTP/1.1" 500 59
+2022-09-14 07:39:26,269 This is From View.py
+2022-09-14 07:39:26,269 "GET /test/ HTTP/1.1" 200 9
+2022-09-14 07:39:27,220 This is From View.py
+2022-09-14 07:39:27,220 "GET /test/ HTTP/1.1" 200 9
+2022-09-14 07:39:29,161 "GET /admin/ HTTP/1.1" 500 59
+2022-09-14 07:40:40,193 "GET /admin/ HTTP/1.1" 200 7623
+2022-09-14 07:40:41,730 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7635
+2022-09-14 07:40:41,764 "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-09-14 07:40:47,215 Internal Server Error: /test/
+Traceback (most recent call last):
+  File "/home/ajay/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/ajay/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ajay/Documents/Personal_project/personal_project/personal_website/celeryProject/celeryProject/djangocelery/views.py", line 16, in test
+    test_func.delay()
+  File "/home/ajay/.local/lib/python3.8/site-packages/celery/app/task.py", line 425, in delay
+    return self.apply_async(args, kwargs)
+  File "/home/ajay/.local/lib/python3.8/site-packages/celery/app/task.py", line 575, in apply_async
+    return app.send_task(
+  File "/home/ajay/.local/lib/python3.8/site-packages/celery/app/base.py", line 784, in send_task
+    with self.producer_or_acquire(producer) as P:
+  File "/home/ajay/.local/lib/python3.8/site-packages/celery/app/base.py", line 919, in producer_or_acquire
+    producer, self.producer_pool.acquire, block=True,
+  File "/home/ajay/.local/lib/python3.8/site-packages/celery/app/base.py", line 1303, in producer_pool
+    return self.amqp.producer_pool
+  File "/home/ajay/.local/lib/python3.8/site-packages/celery/app/amqp.py", line 583, in producer_pool
+    self.app.connection_for_write()]
+  File "/home/ajay/.local/lib/python3.8/site-packages/celery/app/base.py", line 816, in connection_for_write
+    return self._connection(url or self.conf.broker_write_url, **kwargs)
+  File "/home/ajay/.local/lib/python3.8/site-packages/celery/app/base.py", line 867, in _connection
+    return self.amqp.Connection(
+  File "/home/ajay/.local/lib/python3.8/site-packages/kombu/connection.py", line 182, in __init__
+    if not get_transport_cls(transport).can_parse_url:
+  File "/home/ajay/.local/lib/python3.8/site-packages/kombu/transport/__init__.py", line 85, in get_transport_cls
+    _transport_cache[transport] = resolve_transport(transport)
+  File "/home/ajay/.local/lib/python3.8/site-packages/kombu/transport/__init__.py", line 70, in resolve_transport
+    return symbol_by_name(transport)
+  File "/home/ajay/.local/lib/python3.8/site-packages/kombu/utils/imports.py", line 56, in symbol_by_name
+    module = imp(module_name, package=package, **kwargs)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/ajay/.local/lib/python3.8/site-packages/kombu/transport/redis.py", line 263, in <module>
+    class PrefixedStrictRedis(GlobalKeyPrefixMixin, redis.Redis):
+AttributeError: 'NoneType' object has no attribute 'Redis'
+2022-09-14 07:40:47,217 "GET /test/ HTTP/1.1" 500 182693
+2022-09-14 07:40:48,983 Internal Server Error: /test/
+Traceback (most recent call last):
+  File "/home/ajay/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/ajay/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ajay/Documents/Personal_project/personal_project/personal_website/celeryProject/celeryProject/djangocelery/views.py", line 16, in test
+    test_func.delay()
+  File "/home/ajay/.local/lib/python3.8/site-packages/celery/app/task.py", line 425, in delay
+    return self.apply_async(args, kwargs)
+  File "/home/ajay/.local/lib/python3.8/site-packages/celery/app/task.py", line 575, in apply_async
+    return app.send_task(
+  File "/home/ajay/.local/lib/python3.8/site-packages/celery/app/base.py", line 784, in send_task
+    with self.producer_or_acquire(producer) as P:
+  File "/home/ajay/.local/lib/python3.8/site-packages/celery/app/base.py", line 919, in producer_or_acquire
+    producer, self.producer_pool.acquire, block=True,
+  File "/home/ajay/.local/lib/python3.8/site-packages/celery/app/base.py", line 1303, in producer_pool
+    return self.amqp.producer_pool
+  File "/home/ajay/.local/lib/python3.8/site-packages/celery/app/amqp.py", line 583, in producer_pool
+    self.app.connection_for_write()]
+  File "/home/ajay/.local/lib/python3.8/site-packages/celery/app/base.py", line 816, in connection_for_write
+    return self._connection(url or self.conf.broker_write_url, **kwargs)
+  File "/home/ajay/.local/lib/python3.8/site-packages/celery/app/base.py", line 867, in _connection
+    return self.amqp.Connection(
+  File "/home/ajay/.local/lib/python3.8/site-packages/kombu/connection.py", line 182, in __init__
+    if not get_transport_cls(transport).can_parse_url:
+  File "/home/ajay/.local/lib/python3.8/site-packages/kombu/transport/__init__.py", line 85, in get_transport_cls
+    _transport_cache[transport] = resolve_transport(transport)
+  File "/home/ajay/.local/lib/python3.8/site-packages/kombu/transport/__init__.py", line 70, in resolve_transport
+    return symbol_by_name(transport)
+  File "/home/ajay/.local/lib/python3.8/site-packages/kombu/utils/imports.py", line 56, in symbol_by_name
+    module = imp(module_name, package=package, **kwargs)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/ajay/.local/lib/python3.8/site-packages/kombu/transport/redis.py", line 263, in <module>
+    class PrefixedStrictRedis(GlobalKeyPrefixMixin, redis.Redis):
+AttributeError: 'NoneType' object has no attribute 'Redis'
+2022-09-14 07:40:48,984 "GET /test/ HTTP/1.1" 500 182693
+2022-09-14 07:41:01,910 Using selector: EpollSelector
+2022-09-14 07:43:13,178 This is From View.py
+2022-09-14 07:43:13,178 "GET /test/ HTTP/1.1" 200 9
+2022-09-14 07:43:17,676 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7635
+2022-09-14 07:43:17,702 "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-09-14 07:43:18,902 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7635
+2022-09-14 07:43:18,928 "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-09-14 07:44:27,158 This is From View.py
+2022-09-14 07:44:27,158 "GET /test/ HTTP/1.1" 200 9
+2022-09-14 08:03:24,689 Using selector: EpollSelector
+2022-09-14 08:05:32,404 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7886
+2022-09-14 08:05:32,428 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:05:33,760 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7886
+2022-09-14 08:05:33,789 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:05:36,720 This is From View.py
+2022-09-14 08:05:36,721 "GET /test/ HTTP/1.1" 200 9
+2022-09-14 08:05:37,690 This is From View.py
+2022-09-14 08:05:37,691 "GET /test/ HTTP/1.1" 200 9
+2022-09-14 08:07:59,013 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7886
+2022-09-14 08:07:59,040 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:07:59,450 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7886
+2022-09-14 08:07:59,481 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:07:59,621 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7886
+2022-09-14 08:07:59,640 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:08:02,912 This is From View.py
+2022-09-14 08:08:02,912 "GET /test/ HTTP/1.1" 200 9
+2022-09-14 08:08:04,098 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7886
+2022-09-14 08:08:04,121 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:08:04,317 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7886
+2022-09-14 08:08:04,343 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:08:04,490 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7886
+2022-09-14 08:08:04,516 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:13:32,589 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 16374
+2022-09-14 08:13:32,610 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:15:27,891 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 16374
+2022-09-14 08:15:27,932 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:15:28,034 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 16374
+2022-09-14 08:15:28,064 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:15:32,556 "POST /admin/django_celery_results/taskresult/ HTTP/1.1" 200 8347
+2022-09-14 08:15:34,269 "POST /admin/django_celery_results/taskresult/ HTTP/1.1" 302 0
+2022-09-14 08:15:34,367 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 8029
+2022-09-14 08:15:34,392 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:15:35,585 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7886
+2022-09-14 08:15:35,604 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:15:38,564 This is From View.py
+2022-09-14 08:15:38,567 "GET /test/ HTTP/1.1" 200 9
+2022-09-14 08:15:40,950 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 10766
+2022-09-14 08:15:40,971 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:15:52,911 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 10766
+2022-09-14 08:15:52,939 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:16:08,138 This is From View.py
+2022-09-14 08:16:08,139 "GET /test/ HTTP/1.1" 200 9
+2022-09-14 08:16:09,077 This is From View.py
+2022-09-14 08:16:09,077 "GET /test/ HTTP/1.1" 200 9
+2022-09-14 08:16:09,410 This is From View.py
+2022-09-14 08:16:09,411 "GET /test/ HTTP/1.1" 200 9
+2022-09-14 08:16:11,597 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 12168
+2022-09-14 08:16:11,623 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:16:18,154 "GET /admin/django_celery_results/groupresult/ HTTP/1.1" 200 6909
+2022-09-14 08:16:18,175 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:16:19,300 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 12168
+2022-09-14 08:16:19,324 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:16:21,359 "GET /admin/django_celery_results/taskresult/81/change/ HTTP/1.1" 200 13331
+2022-09-14 08:16:21,388 "GET /static/admin/css/forms.css HTTP/1.1" 200 8878
+2022-09-14 08:16:21,395 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 492
+2022-09-14 08:16:21,397 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11097
+2022-09-14 08:16:21,399 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:16:21,405 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+2022-09-14 08:16:29,210 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 12168
+2022-09-14 08:16:29,229 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:16:35,149 This is From View.py
+2022-09-14 08:16:35,150 "GET /test/ HTTP/1.1" 200 9
+2022-09-14 08:16:35,943 This is From View.py
+2022-09-14 08:16:35,943 "GET /test/ HTTP/1.1" 200 9
+2022-09-14 08:16:36,664 This is From View.py
+2022-09-14 08:16:36,665 "GET /test/ HTTP/1.1" 200 9
+2022-09-14 08:16:37,080 This is From View.py
+2022-09-14 08:16:37,081 "GET /test/ HTTP/1.1" 200 9
+2022-09-14 08:16:39,066 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 14036
+2022-09-14 08:16:39,090 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:18:40,976 This is From View.py
+2022-09-14 08:18:40,976 "GET /test/ HTTP/1.1" 200 9

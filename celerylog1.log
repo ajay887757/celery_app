@@ -1,0 +1,252 @@
+2022-09-13 17:31:39,657 | INFO | Watching for file changes with StatReloader
+2022-09-13 17:31:45,085 | INFO | Watching for file changes with StatReloader
+2022-09-13 17:32:43,765 | INFO | "GET /test/ HTTP/1.1" 200 9
+2022-09-13 17:32:56,389 | INFO | "GET /admin/ HTTP/1.1" 200 7624
+2022-09-13 17:32:56,429 | INFO | "GET /static/admin/css/base.css HTTP/1.1" 200 19513
+2022-09-13 17:32:56,430 | INFO | "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2616
+2022-09-13 17:32:56,440 | INFO | "GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+2022-09-13 17:32:56,446 | INFO | "GET /static/admin/css/responsive.css HTTP/1.1" 200 18575
+2022-09-13 17:32:56,449 | INFO | "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+2022-09-13 17:32:56,451 | INFO | "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3763
+2022-09-13 17:32:56,471 | INFO | "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+2022-09-13 17:32:56,472 | INFO | "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+2022-09-13 17:32:56,472 | INFO | "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+2022-09-13 17:32:56,573 | INFO | "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+2022-09-13 17:32:56,573 | INFO | "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+2022-09-13 17:32:56,578 | INFO | "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+2022-09-13 17:32:56,614 | WARNING | Not Found: /favicon.ico
+2022-09-13 17:32:56,614 | WARNING | "GET /favicon.ico HTTP/1.1" 404 2269
+2022-09-13 17:32:58,269 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7886
+2022-09-13 17:32:58,307 | INFO | "GET /static/admin/css/changelists.css HTTP/1.1" 200 6932
+2022-09-13 17:32:58,315 | INFO | "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+2022-09-13 17:32:58,319 | INFO | "GET /static/admin/js/core.js HTTP/1.1" 200 5698
+2022-09-13 17:32:58,329 | INFO | "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+2022-09-13 17:32:58,330 | INFO | "GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+2022-09-13 17:32:58,334 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 17:32:58,337 | INFO | "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+2022-09-13 17:32:58,339 | INFO | "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 5984
+2022-09-13 17:32:58,342 | INFO | "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 288580
+2022-09-13 17:32:58,344 | INFO | "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+2022-09-13 17:32:58,359 | INFO | "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+2022-09-13 17:32:58,389 | INFO | "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+2022-09-13 17:34:09,153 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 11234
+2022-09-13 17:34:09,177 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 17:34:09,205 | INFO | "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+2022-09-13 17:42:22,223 | INFO | "GET /test/ HTTP/1.1" 200 9
+2022-09-13 17:42:25,336 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 11234
+2022-09-13 17:42:25,357 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 17:42:26,035 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 11234
+2022-09-13 17:42:26,054 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 17:42:26,248 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 11234
+2022-09-13 17:42:26,268 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 17:42:26,367 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 11234
+2022-09-13 17:42:26,385 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 17:54:59,135 | INFO | "GET /test/ HTTP/1.1" 200 9
+2022-09-13 17:55:03,929 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 11234
+2022-09-13 17:55:03,949 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 17:55:05,835 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 11234
+2022-09-13 17:55:05,855 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 17:55:06,052 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 11234
+2022-09-13 17:55:06,070 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 17:55:06,156 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 11234
+2022-09-13 17:55:06,170 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 17:55:06,265 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 11234
+2022-09-13 17:55:06,282 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 17:55:06,383 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 11234
+2022-09-13 17:55:06,452 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 17:55:06,937 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 11234
+2022-09-13 17:55:06,965 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 17:55:07,055 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 11234
+2022-09-13 17:55:07,067 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 17:55:32,414 | INFO | "GET /test/ HTTP/1.1" 200 9
+2022-09-13 17:55:33,302 | INFO | "GET /test/ HTTP/1.1" 200 9
+2022-09-13 17:55:35,965 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 11234
+2022-09-13 17:55:35,979 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-13 17:55:36,686 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 11234
+2022-09-13 17:55:36,701 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 06:35:18,801 | INFO | Watching for file changes with StatReloader
+2022-09-14 06:50:37,438 | INFO | "GET /test/ HTTP/1.1" 200 9
+2022-09-14 06:50:41,663 | INFO | "GET /admin/ HTTP/1.1" 200 7624
+2022-09-14 06:50:41,991 | INFO | "GET /admin/ HTTP/1.1" 200 7624
+2022-09-14 06:50:42,121 | WARNING | Not Found: /favicon.ico
+2022-09-14 06:50:42,122 | WARNING | "GET /favicon.ico HTTP/1.1" 404 2269
+2022-09-14 06:50:43,732 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 13102
+2022-09-14 06:50:43,756 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 06:50:43,757 | INFO | "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 288580
+2022-09-14 06:50:51,936 | INFO | "POST /admin/django_celery_results/taskresult/ HTTP/1.1" 200 6841
+2022-09-14 06:50:51,951 | INFO | "GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+2022-09-14 06:50:53,498 | INFO | "POST /admin/django_celery_results/taskresult/ HTTP/1.1" 302 0
+2022-09-14 06:50:53,568 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 8028
+2022-09-14 06:50:53,583 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 06:50:53,642 | INFO | "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+2022-09-14 07:25:58,205 | INFO | "GET /test/ HTTP/1.1" 200 9
+2022-09-14 07:25:58,838 | INFO | "GET /test/ HTTP/1.1" 200 9
+2022-09-14 07:25:59,475 | INFO | "GET /test/ HTTP/1.1" 200 9
+2022-09-14 07:26:00,133 | INFO | "GET /test/ HTTP/1.1" 200 9
+2022-09-14 07:26:00,706 | INFO | "GET /test/ HTTP/1.1" 200 9
+2022-09-14 07:39:12,551 | ERROR | "GET /admin/ HTTP/1.1" 500 59
+2022-09-14 07:39:15,935 | ERROR | "GET /admin/ HTTP/1.1" 500 59
+2022-09-14 07:39:26,269 | INFO | "GET /test/ HTTP/1.1" 200 9
+2022-09-14 07:39:27,220 | INFO | "GET /test/ HTTP/1.1" 200 9
+2022-09-14 07:39:29,161 | ERROR | "GET /admin/ HTTP/1.1" 500 59
+2022-09-14 07:40:37,140 | INFO | Watching for file changes with StatReloader
+2022-09-14 07:40:40,193 | INFO | "GET /admin/ HTTP/1.1" 200 7623
+2022-09-14 07:40:41,730 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7635
+2022-09-14 07:40:41,764 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-09-14 07:40:47,215 | ERROR | Internal Server Error: /test/
+Traceback (most recent call last):
+  File "/home/ajay/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/ajay/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ajay/Documents/Personal_project/personal_project/personal_website/celeryProject/celeryProject/djangocelery/views.py", line 16, in test
+    test_func.delay()
+  File "/home/ajay/.local/lib/python3.8/site-packages/celery/app/task.py", line 425, in delay
+    return self.apply_async(args, kwargs)
+  File "/home/ajay/.local/lib/python3.8/site-packages/celery/app/task.py", line 575, in apply_async
+    return app.send_task(
+  File "/home/ajay/.local/lib/python3.8/site-packages/celery/app/base.py", line 784, in send_task
+    with self.producer_or_acquire(producer) as P:
+  File "/home/ajay/.local/lib/python3.8/site-packages/celery/app/base.py", line 919, in producer_or_acquire
+    producer, self.producer_pool.acquire, block=True,
+  File "/home/ajay/.local/lib/python3.8/site-packages/celery/app/base.py", line 1303, in producer_pool
+    return self.amqp.producer_pool
+  File "/home/ajay/.local/lib/python3.8/site-packages/celery/app/amqp.py", line 583, in producer_pool
+    self.app.connection_for_write()]
+  File "/home/ajay/.local/lib/python3.8/site-packages/celery/app/base.py", line 816, in connection_for_write
+    return self._connection(url or self.conf.broker_write_url, **kwargs)
+  File "/home/ajay/.local/lib/python3.8/site-packages/celery/app/base.py", line 867, in _connection
+    return self.amqp.Connection(
+  File "/home/ajay/.local/lib/python3.8/site-packages/kombu/connection.py", line 182, in __init__
+    if not get_transport_cls(transport).can_parse_url:
+  File "/home/ajay/.local/lib/python3.8/site-packages/kombu/transport/__init__.py", line 85, in get_transport_cls
+    _transport_cache[transport] = resolve_transport(transport)
+  File "/home/ajay/.local/lib/python3.8/site-packages/kombu/transport/__init__.py", line 70, in resolve_transport
+    return symbol_by_name(transport)
+  File "/home/ajay/.local/lib/python3.8/site-packages/kombu/utils/imports.py", line 56, in symbol_by_name
+    module = imp(module_name, package=package, **kwargs)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/ajay/.local/lib/python3.8/site-packages/kombu/transport/redis.py", line 263, in <module>
+    class PrefixedStrictRedis(GlobalKeyPrefixMixin, redis.Redis):
+AttributeError: 'NoneType' object has no attribute 'Redis'
+2022-09-14 07:40:47,217 | ERROR | "GET /test/ HTTP/1.1" 500 182693
+2022-09-14 07:40:48,983 | ERROR | Internal Server Error: /test/
+Traceback (most recent call last):
+  File "/home/ajay/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/ajay/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ajay/Documents/Personal_project/personal_project/personal_website/celeryProject/celeryProject/djangocelery/views.py", line 16, in test
+    test_func.delay()
+  File "/home/ajay/.local/lib/python3.8/site-packages/celery/app/task.py", line 425, in delay
+    return self.apply_async(args, kwargs)
+  File "/home/ajay/.local/lib/python3.8/site-packages/celery/app/task.py", line 575, in apply_async
+    return app.send_task(
+  File "/home/ajay/.local/lib/python3.8/site-packages/celery/app/base.py", line 784, in send_task
+    with self.producer_or_acquire(producer) as P:
+  File "/home/ajay/.local/lib/python3.8/site-packages/celery/app/base.py", line 919, in producer_or_acquire
+    producer, self.producer_pool.acquire, block=True,
+  File "/home/ajay/.local/lib/python3.8/site-packages/celery/app/base.py", line 1303, in producer_pool
+    return self.amqp.producer_pool
+  File "/home/ajay/.local/lib/python3.8/site-packages/celery/app/amqp.py", line 583, in producer_pool
+    self.app.connection_for_write()]
+  File "/home/ajay/.local/lib/python3.8/site-packages/celery/app/base.py", line 816, in connection_for_write
+    return self._connection(url or self.conf.broker_write_url, **kwargs)
+  File "/home/ajay/.local/lib/python3.8/site-packages/celery/app/base.py", line 867, in _connection
+    return self.amqp.Connection(
+  File "/home/ajay/.local/lib/python3.8/site-packages/kombu/connection.py", line 182, in __init__
+    if not get_transport_cls(transport).can_parse_url:
+  File "/home/ajay/.local/lib/python3.8/site-packages/kombu/transport/__init__.py", line 85, in get_transport_cls
+    _transport_cache[transport] = resolve_transport(transport)
+  File "/home/ajay/.local/lib/python3.8/site-packages/kombu/transport/__init__.py", line 70, in resolve_transport
+    return symbol_by_name(transport)
+  File "/home/ajay/.local/lib/python3.8/site-packages/kombu/utils/imports.py", line 56, in symbol_by_name
+    module = imp(module_name, package=package, **kwargs)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/ajay/.local/lib/python3.8/site-packages/kombu/transport/redis.py", line 263, in <module>
+    class PrefixedStrictRedis(GlobalKeyPrefixMixin, redis.Redis):
+AttributeError: 'NoneType' object has no attribute 'Redis'
+2022-09-14 07:40:48,984 | ERROR | "GET /test/ HTTP/1.1" 500 182693
+2022-09-14 07:43:09,744 | INFO | Watching for file changes with StatReloader
+2022-09-14 07:43:13,178 | INFO | "GET /test/ HTTP/1.1" 200 9
+2022-09-14 07:43:17,676 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7635
+2022-09-14 07:43:17,702 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-09-14 07:43:18,902 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7635
+2022-09-14 07:43:18,928 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-09-14 07:44:27,158 | INFO | "GET /test/ HTTP/1.1" 200 9
+2022-09-14 08:05:29,005 | INFO | Watching for file changes with StatReloader
+2022-09-14 08:05:32,404 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7886
+2022-09-14 08:05:32,428 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:05:33,760 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7886
+2022-09-14 08:05:33,789 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:05:36,721 | INFO | "GET /test/ HTTP/1.1" 200 9
+2022-09-14 08:05:37,691 | INFO | "GET /test/ HTTP/1.1" 200 9
+2022-09-14 08:07:35,901 | INFO | Watching for file changes with StatReloader
+2022-09-14 08:07:59,013 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7886
+2022-09-14 08:07:59,040 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:07:59,450 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7886
+2022-09-14 08:07:59,481 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:07:59,621 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7886
+2022-09-14 08:07:59,640 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:08:02,912 | INFO | "GET /test/ HTTP/1.1" 200 9
+2022-09-14 08:08:04,098 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7886
+2022-09-14 08:08:04,121 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:08:04,317 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7886
+2022-09-14 08:08:04,343 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:08:04,490 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7886
+2022-09-14 08:08:04,516 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:13:32,589 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 16374
+2022-09-14 08:13:32,610 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:15:27,891 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 16374
+2022-09-14 08:15:27,932 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:15:28,034 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 16374
+2022-09-14 08:15:28,064 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:15:32,556 | INFO | "POST /admin/django_celery_results/taskresult/ HTTP/1.1" 200 8347
+2022-09-14 08:15:34,269 | INFO | "POST /admin/django_celery_results/taskresult/ HTTP/1.1" 302 0
+2022-09-14 08:15:34,367 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 8029
+2022-09-14 08:15:34,392 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:15:35,585 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 7886
+2022-09-14 08:15:35,604 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:15:38,567 | INFO | "GET /test/ HTTP/1.1" 200 9
+2022-09-14 08:15:40,950 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 10766
+2022-09-14 08:15:40,971 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:15:52,911 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 10766
+2022-09-14 08:15:52,939 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:16:08,139 | INFO | "GET /test/ HTTP/1.1" 200 9
+2022-09-14 08:16:09,077 | INFO | "GET /test/ HTTP/1.1" 200 9
+2022-09-14 08:16:09,411 | INFO | "GET /test/ HTTP/1.1" 200 9
+2022-09-14 08:16:11,597 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 12168
+2022-09-14 08:16:11,623 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:16:18,154 | INFO | "GET /admin/django_celery_results/groupresult/ HTTP/1.1" 200 6909
+2022-09-14 08:16:18,175 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:16:19,300 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 12168
+2022-09-14 08:16:19,324 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:16:21,359 | INFO | "GET /admin/django_celery_results/taskresult/81/change/ HTTP/1.1" 200 13331
+2022-09-14 08:16:21,388 | INFO | "GET /static/admin/css/forms.css HTTP/1.1" 200 8878
+2022-09-14 08:16:21,395 | INFO | "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 492
+2022-09-14 08:16:21,397 | INFO | "GET /static/admin/css/widgets.css HTTP/1.1" 200 11097
+2022-09-14 08:16:21,399 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:16:21,405 | INFO | "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+2022-09-14 08:16:29,210 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 12168
+2022-09-14 08:16:29,229 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:16:35,150 | INFO | "GET /test/ HTTP/1.1" 200 9
+2022-09-14 08:16:35,943 | INFO | "GET /test/ HTTP/1.1" 200 9
+2022-09-14 08:16:36,665 | INFO | "GET /test/ HTTP/1.1" 200 9
+2022-09-14 08:16:37,081 | INFO | "GET /test/ HTTP/1.1" 200 9
+2022-09-14 08:16:39,066 | INFO | "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 14036
+2022-09-14 08:16:39,090 | INFO | "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+2022-09-14 08:18:40,976 | INFO | "GET /test/ HTTP/1.1" 200 9
